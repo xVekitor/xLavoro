@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Sviluppatore Python",
+    "company": "AziendaX",
+    "description": "Cerchiamo uno sviluppatore Python con esperienza in Flask e Kivy.",
+    "link": "https://www.example.com/candidati-python"
+  },
+  {
+    "title": "Web Deaasigner",
+    "company": "AziendaY",
+    "description": "Creatività e conoscenza di HTML/CSS richieste.",
+    "link": "https://www.example.com/candidati-designer"
+  }
+]
